@@ -1,0 +1,56 @@
+{
+  "name": "Docbox",
+  "short_name": "Docbox",
+  "lang": "en-us",
+  "display": "fullscreen",
+  "orientation" : "portrait",
+  "start_url": "http://localhost:1313/?utm_source=web_app_manifest",
+  "background_color": "#fff",
+  "theme_color": "#000",
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  "icons": [
+    {
+      "src": "/images/favicon_hu30a6601e4af3fde528b1ae5760073547_2856_48x48_resize_lanczos_3.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu30a6601e4af3fde528b1ae5760073547_2856_72x72_resize_lanczos_3.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu30a6601e4af3fde528b1ae5760073547_2856_96x96_resize_lanczos_3.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu30a6601e4af3fde528b1ae5760073547_2856_144x144_resize_lanczos_3.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu30a6601e4af3fde528b1ae5760073547_2856_192x192_resize_lanczos_3.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/favicon_hu30a6601e4af3fde528b1ae5760073547_2856_512x512_resize_lanczos_3.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+  
+  
+}
