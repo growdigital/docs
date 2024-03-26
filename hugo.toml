@@ -5,9 +5,9 @@ theme = "docbox-hugo"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
 timeZone = "America/New_York"
 # google analytics
-googleAnalytics = "UA-123456-78" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
+# googleAnalytics = "UA-123456-78" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
 # disqus short name
-disqusShortname = "themefisher-template" # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
+# disqusShortname = "themefisher-template" # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
 # default content language
 defaultContentLanguage = "en" # see https://gohugo.io/content-management/multilingual/
 # disable language
